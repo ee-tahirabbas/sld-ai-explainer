@@ -37,7 +37,7 @@ An AI-powered tool that analyzes electrical Single Line Diagrams (SLDs) — sola
 ---
 
 ## 💻 Run Locally
-
+'''bash
 # 1. Clone the repo
 git clone https://github.com/YOUR_USERNAME/sld-ai-explainer.git
 cd sld-ai-explainer
@@ -54,7 +54,7 @@ $env:GEMINI_API_KEY="your_key_here"
 
 # 4. Run
 python app.py
-
+'''
 Then open **http://localhost:7860** in your browser.
 
 ---
